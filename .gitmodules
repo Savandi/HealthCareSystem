@@ -1,0 +1,9 @@
+[submodule "DoctorManagement"]
+	path = DoctorManagement
+	url = https://github.com/Savandi/DoctorManagement.git
+[submodule "AppointmentApi"]
+	path = AppointmentApi
+	url = https://github.com/Bawanthathilan/AppointmentApi.git
+[submodule "PaymentAPI"]
+	path = PaymentAPI
+	url = https://github.com/Bhanuka1Jayasingha/PaymentAPI.git
